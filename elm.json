@@ -3,7 +3,7 @@
     "name": "lovasoa/elm-csv",
     "summary": "A CSV parser.",
     "license": "MIT",
-    "version": "1.1.6",
+    "version": "1.1.7",
     "exposed-modules": [
         "Csv"
     ],
